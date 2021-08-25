@@ -1,6 +1,6 @@
-![Logo](https://i.imgur.com/qOPBy7D.png)
+![Logo](https://i.imgur.com/CGEEugR.png)
 
-# Aldrnari
+# Streamlined Skyrim
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -38,27 +38,15 @@
 
 # Preamble
 
-Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is my project to make a Skyrim ***I*** want to play.
-It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
+Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, fully voiced followers, straightforward gameplay, overhauled locations all while staying performance friendly. Most of the gameplay changes are vanilla plus and minimalistic (except for the combat) keeping things nice and simple. Skyrim's combat has been brought up to 2021 standards making it exciting and challenging. Once you learn the basics of the list you are able to play the game without needing to micromanage. The modlist makes Skyrim, well, streamlined.
 
-Aldrnari means "the nourisher of life" and is one of the many ways to say "fire" in Old Norse.
-The idea came from the Heilung track [Elddansurin](https://www.youtube.com/watch?v=Xph2Phcj0LA) (it means [The fire dancer](https://lyricstranslate.com/en/elddansurin-fire-dancer.html)) because it represents how folk helped heal my soul and how, in Dark Souls, fire is extremely important.
-Because yes, this list is heavily inspired by the Souls Games in the combat and gameplay mechanics, as you'll see further below.
+Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
-This list is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
-It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
+If you want to take a look at the full modlist here is the link: https://modwat.ch/u/TerribleBrad/plugins
 
-If you have any questions regarding the list, you're free to ask in the [Wabbajack Discord](https://discord.gg/wabbajack) or [my own personal server](https://discord.gg/ZgjVrXp).
+**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
-This project started as a collaboration between Althro and I on Tinvaak 2. Over time, however, we realised our end goals were different, and he gave permission for me to use the base that had been created. Aldrnari would not exist without Althro and the work he put into creating and patching Tinvaak 2. Go show him some love and play Tinvaak 2 when he releases it. [Permission proof](http://i.prntscr.com/NwKOu-apRU6DrMDb9R5eOw.png)
-
-The art for the list was made by [Crithion/m.vlad](https://mvlad.design/), a fellow Modlist Developer (author of [Narsil](https://mvlad.design/narsil/), a VR list), and artist. I commissioned him and he did an amazing job!
-
-# Disclaimer
-
-### READING THIS README IN ITS ENTIRETY IS REQUIRED FOR THE LIST TO WORK. IT WILL NOT WORK IF YOU DON'T READ. THIS ISN'T ROCKET SCIENCE SO BE PATIENT AND READ CAREFULLY. THE README DOESN'T END AT "HOW TO START UP THE LIST". 
-### I am going to answer "readme" to any question answered in this document - you have been warned. 
-### THIS LIST MASSIVELY CHANGES THE GAME, IT HAS BEEN TAILORED IN A CERTAIN WAY THAT YOU WOULDNT HAVE THE SAME EXPERIENCE IF YOU MODDED THE GAME YOURSELF WITH THE SAME MODS; THUS, DO NOT REPORT ANY BUG/ERROR/ISSUE/PROBLEM TO MOD AUTHORS BUT ONLY TO ME THROUGH WABBAJACK'S OR MY DISCORD and please follow the MCM Setup to the letter.
+Wabbajack Link: https://drive.google.com/file/d/1yWriviHTeducFEP-7TNCU16efVCWkoad/view?usp=sharing
 
 # Noteworthy Mods and what gameplay to expect.
 
