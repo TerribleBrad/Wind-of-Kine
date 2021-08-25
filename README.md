@@ -44,34 +44,58 @@ Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recomme
 
 If you want to take a look at the full modlist here is the link: https://modwat.ch/u/TerribleBrad/plugins
 
-**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
+**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors seek out help from me or the other folks on the Wabbajack Discord**
 
 Wabbajack Link: https://drive.google.com/file/d/1yWriviHTeducFEP-7TNCU16efVCWkoad/view?usp=sharing
 
 # Noteworthy Mods and what gameplay to expect.
 
-An entire document has been made to give you as much information as I could without going too deep in analysis of mods. This document is called **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** and acts as a second readme for the core gameplay and questions about what to expect. So go read [it](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)! 
+Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are in the list to make sure there is always something new to do. The game is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
+
+General Gameplay
+
+Vokrii Minimalistic Perks is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Odin Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters Lawbringer allows you to truly rid Skyrim of all of its atrocities.
+
+Combat
+
+SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using The Ultimate Dodge Mod completely negating damage. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. With Open World Loot, you will see higher level enemies earlier and give the you a solid sense of progression as you level up. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
+
+Roleplay
+
+Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Wintersun Faiths of Skyrim you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completeing quests and discovering locations. A smaller minimalistic mod called Skyrim's Got Talent allows your character to become a bard and boasts an immerisve progression system and new instrumental songs that fit right into the game.
+
+Quests
+
+To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. G.R.I.M for those who want repeatable creepy boss fights. Stendarr Rising for all the do-gooders of Skyrim. Vanilla questlines are overhauled with At Your Own Pace which gives the Main Questline, Thieves Guild Questline, Bard's College Questline and The College of Winterhold Questline reasonable breaks allowing you to do other quests without feeling like there is a time crunch.
+
+Followers
+
+Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. From Lucien, to Inigo and from Hoth to Serena Dialogue addon you'll be sure to get your fill of unique followers. And we can't forget about the doggo companions: Gladys the Corgi, True Meeko and Vigilance Reborn.
 
 # Installation
 ### Prerequisites
 #### PC Specifications
-Aldrnari is meant to use every single inch of my computer, and here are my specs:
-  - I7-7700k
-  - 1080Ti Zotac - 11GB of VRAM
-  - 32GB of 3200mhz DDR4 RAM
+Streamlined Skyrim is designed for low to mid tier systems and does not include an ENB (although you can add one. See Optional ENB)
 
-Full PC Part Picker setup is [here](https://fr.pcpartpicker.com/list/ZHQQgt). I would recommend atleast 8GB of VRAM for 1080p, and for 1440p you will need a minimum of 10GB of VRAM, although more is highly recommended. I do not have stable 60FPS on 1440p everywhere with my setup because, frankly, I do not care about framerate if combat is fluid and I can take sexy screenshots. The average is 60FPS with dips in 50FPS in very few areas at 1080p because my screen is a 3840x1080p (no I don't play in ultrawide, that's pointless and no support will be offered for that either).
+TerribleBrad’s System:
 
-No performance options are available for now as this is a Beta; however, this may change at some point. If your PC does not meet the specifications required for this list, my other list, [QWEST!](https://github.com/SovnSkyrim/QWEST), will probably work for you. It's made so that everyone can play it.
+GPU: Radeon RX 580 Series 8GB
 
-Disclaimer: Any questions regarding the specs and performance of the list will be redirected to here if you're asking me. I cannot stress how much I will not change the performance of the list. It is primarily made for screen-archery with innovative gameplay. You are free to modify the list once you have it to fit your frames dream, but I will not support you in doing so.
+CPU Ryzen 6 2600
+
+RAM: 16 GB
+
+Storage: 500 GB SSD
+
+Fps: 55-60
+
 #### Size on Drive
-Aldrnari is a big list, it requires:
-  - Over 135GB for the Downloads folder
-  - Over 200GB for the Installation folder
-  - an additional 25GB for the temporary files during Installation
 
-So 360GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD and it will only slow your installation process.
+  - Over 63.5 GB for the Downloads folder
+  - Over 99.5 GB for the Installation folder
+  - ~15 GB for temporary files
+
+So 178 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
 
 ### Pre-Installation
 
@@ -115,8 +139,7 @@ After you have done everything above and got a clean SSE installation ready, sta
 
 1. Leave the quality to what Skyrim sets it to, but you can lower it if you wish. FPS gain is minor though.
 2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
+3. Check _Windowed Mode_ and _Borderless_
 
 Start the game and exit once you're in the main menu.
 
@@ -130,29 +153,18 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 Wabbajack will not work with Windows 7, I will not offer any kind of support for users of that operating system.
 
-You will also need those files that tend to not download themselves; so I'd recommend you download them manually, and simply drop them in your WJ downloads folder. This is the folder you set in the next step when starting the install. Do NOT unzip the files, just download the zip, and drop it in the folder as is. WJ will then realize the files are present and move on with the rest of the download.
- 
-- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
-- https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
-- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
-- https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
-- https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
-- https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download - Mordhau Pack by Team TAL
-- https://drive.google.com/uc?id=1BsgFAq7t1aDEjl2i8h4OHLgcYU8g_4gv&export=download - Mordhau Weapon Pack by Team TAL
-
 ## Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Open the Wabbajack.exe and select "Browse Modlists".
-2. Scroll until you find Aldrnari, you can make it easier using the filter at the top for Games, in it select Skyrim Special Edition.
-3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Aldrnari".
-4. Select the created folder in 3. as your installation folder.
-5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Put the files downloaded in the prior step into this folder AS IS. Do **not** extract the archives.
-7. Select the created folder in 5. as your downloads folder.
-8. Click the Go/Begin button.
-9. Wait for Wabbajack to finish.
+1. Download the Streamlined Skyrim Wabbajack file linked above
+2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Streamliend Skyrim." This will be your "Installation" folder.
+3. Create another folder called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish. This will be your "Downloads" folder.
+4. Click on the Streamlined Skyrim Wabbajack file. 
+5. Select your Installation and Download folders (the ones you just made)
+6. Click the Go/Begin button.
+7. Wait for Wabbajack to finish.
+
 
 ### Problems with Wabbajack
 
@@ -162,15 +174,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case, just wait until I update the Modlist.
 
-Some files are known to be problematic, it is likely those are the ones that failed. You can download them here and place the archives **AS IS** in the downloads folder.
-
-- https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM - Elwaps Speedtree
-- https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A - HG Hairdos
-- https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg - xLODGEN.83
-- https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg - Book Of The Dead Trees (1)
-- https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download - [Dint999] HairPack02 SSE (v0.09)
-- https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download - Mordhau Pack by Team TAL
-- https://drive.google.com/uc?id=1BsgFAq7t1aDEjl2i8h4OHLgcYU8g_4gv&export=download - Mordhau Weapon Pack by Team TAL
+Some files are known to be problematic, you can find them stickied in my Discord Channel
 
 **x is not a whitelisted download**:
 
@@ -184,7 +188,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Copy Game Folder Files
 
-When the installation is complete, copy the files in the `Aldrnari\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m).
+When the installation is complete, copy the files in the `Streamlied Skyrim\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m).
 
 ## Pagefile in prevention of memory crashes
 
@@ -200,27 +204,11 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
-## Getting an ENB
+## Optional ENB
 
-Aldrnari comes with 3 ENBs tweaked for the list's Setup:
-- fnenb by Foxnne
-- Pacific Blue by FOSSTEN
-- Apex Somber by Digital Dreams
-
-Info on them is in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) so I highly suggest reading it. (use control + F key combo to search for ENB).
+Streamlined Skyrim doesn't come with an ENB, but you can add one. I tested out Glazed ENB: https://www.nexusmods.com/skyrimspecialedition/mods/53316?tab=description and got around 30-40 fps outdoors. Obviously the game is going to look a lot better with an ENB, but you will sacrifice performance(unless you've got a beefy computer). 
 
 How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Skyrim Special Edition folder**, same way as the "Copy Game Folder Files" step.
-
-## How to start up Aldrnari
-
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
-
-Upon pressing New Game, you will spawn on the walls of Helgen burning down. Once all the messages on the top left corner of the screen are gone, set the MCMs as instructed below.
-
-If you press enter, you will be teleported to a location where you will be able to personalize your character.
-After confirming your character, please note that you should not use the 'showracemenu' console command to change sex or race, it will break a lot more than you think. If you want to customize the MCMs or need some more time to setup Skyrim Unbound, you can use the "Stay there" option.
-
-Do NOT Select a NON DRAGONBORN OPTION within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
 
 ## Updating
 
@@ -232,158 +220,150 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
+## How to start up Aldrnari
+
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+
+Select New to start a new game. Once you have finished character creation allow all of the start of game scripts to finish loading before doing anything. Do NOT change race with showracemenu after confirming your character! It is time to configure all the mcm menus!
+
+
 ## In-Game MCM Options
-Once the game has loaded, wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
-MCMs are not automated due to a personal choice: There are many important tweaks, a mountain of informations, and useful stuff in them that can solve problems or make your experience better. Those are my own and what I recommend for the least amount of problems and a balanced experience.
-
-Do NOT Select a **NON DRAGONBORN OPTION** within Skyrim Unbound! Doing so will result in broken questlines! You cannot escape your destiny!
-
-#### Game Difficulty
-- The difficulty in this Modlist is quite harder (more info on that in [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)) so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
 
 #### A Matter of Time
 
 - Presets :
   - Load User Settings
 
-#### All Geared up Derivative
-- Weapons - Player
-    - Shield Stay on arm while Equipped: Enable
-    - Toggle un/equipping Torso Armor: Enable 
-- Misc. Player :
-  - Require Torso Armor : Enabled
-  - (you can tweak stuff showing on you whenever you want, if something bothers you)
-- NPC :
-  - Enable Weapons : Enabled
+#### Commentary Rate Configuration
+- Minimum Time Between Comments : 20
+- Maximum Time Between Comments : 30
 
-#### Better Vampire NPCs
-- Not an MCM   
-    - In your inventory there's an item called "Vampire's Bloodgem" allowing to tweak stuff by clicking on it while crouched. 
-        - I leave it as default. You can tweak it all you want. Experimental stuff may cause issues as expected. When done drop the bloodgem.
+#### Deflection
+ - Options
+     - Timed Block Options
+       - Choose Block Damage Modifier : 100%
+       - Timed Block Winder : 0.3 Seconds
+       - NPC Stagger TIme : 1 Seconds
+       - Block CoolDown TIme : 0 Seconds
+       - Stamina Cost : 2.5 Percent
+       - Stamina Requirement : 0
+     - Magic Parrying Options
+       - Magicka Requirement : 0 Magicka
+       - Reflect Magic : Disabled
+       - Npc Magic Stagger : Disabled
+     - Misc Options
+       - Perfect Block Message : Disabled
 
-#### Campfire
-- Gameplay
-  - Hotkeys
-    - Set your Hotkeys however you want
-    - I go by :
-    - Create item : N
-    - Build Campfire : B
-    - Harvest wood : H
-    - Instincts : Nothing
+#### Dual Wield Parrying
+- Block Key : Mouse 4 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
-#### Cold Region Behavior
-- General Settings
-	- Main Settings
-		- Enable Mod Features
+#### Immersive HUD
+- Activation
+  - Compass Activation
+    - iHUD hotkey : (your choice you'll click it once and never use it again)
+    - Key press toggles : Enabled
+  - Corsshair Activation
+    - Wielding ranged weapon : Disabled
+    - Wielding spell : Disabled
 
-#### Engarde: 
-- Keybutton
-    - Defensive Actions
-        - Modifier is by default Shift
-        - Swap stuff around depending on what you want, leave as default if you're new to Engarde. Keep in mind off-hand action requires shift to be pressed
-        - Defensive Action key: C
-
-#### Follower Framework
-- System :
-- Settings
-  - Load From File
-
-#### Forgotten Magic - **Important**
-- Settings
-    - Spellbooks Drop Chance: 0.0
-    - Jewelry Drop Chance: 0.1
-- The Tabs above Settings is where you'll level up your spells once you acquire them.
-- [You will acquire them despite the drop chance, do not worry!!](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md#gameplay---main-overhauls--perks-races-standing-stones-magic-religion-and-alchemy)
-- 
-#### Heartbreaker (Optional) 
-- Main Settings
-    - Learn Spell Power: Enabled
-    - It gives you a power to put npcs in stagger once per IRL hour so you can rip out their hearts; you can also bind it so you can do it anytime.
-  
-#### Less Intrusive HUD: 
-- General Settings
-    - FileAccess Interface
-        - Load Personal Preset
-
-#### MoreHUD:
+#### moreHUD
 - Presets
-    - Load User Settings?: GO
-
-#### OBIS - Bandits
-- Leave as is
-    - Why? Enabling in the MCMs is only for the additional spawns option, but that is not the aim of the encounter mods chosen in Aldrnari. I'm buffing everyone instead of giving you hordes of enemies.
-
-#### OBIS - Patrols
-- Settings
-    - Enable: Enabled
+  - Save Settings with FISS
+    - Load User Settings? : GO
 
 #### Optimal Potion Hotkey
-- Set one keybind (mine is "<" for Health only, I don't use the other ones)
+- Hotkeys
+ - Health potion hotkey : H
+ 
+ #### SkyUI
+- General → Item List :
+  - Font Size : Small
+  - Category Icon Theme : Curved
+ 
+#### Smart NPC Potions
+- Custom Values
+  - Max number of potions : 2
 
-#### Radiant Requirements
-- Settings
-  - Dragon lair: 10
-  - Draugr Crypt: 5
-  - Forsworn Camp: 10
-  - Hagraven Nest: 20
-  - Vampire Lair: 25
-  - Werewolf Lair: 25
-  - Dragon Priest Lair: 25
-  - Falmer Hive: 20
-  - Giant Camp: 20
-  - Spriggan Grove: 10
-  - Warlock Lair: 1
-
-#### Real Names
-- Basic Options:
-	- Settings
-		- Strangers Mode: Enabled
-		- Title Preference:Title and/or Surname>Epithet
-	- Special Exclusions:
-		- Exclude Dragon Priests?: Enabled
-		- Excluse Corpses?: Enabled
-
-#### SkyUI
-- Advanced → SWF Version Checking : 
-  - Map Menu : Disabled
-  - Favorites Menu : Disabled
-  - Inventory Menu : Disabled
-  - Barter Menu : Disabled
-  - Container Menu : Disabled
-  - Crafting Menu : Disabled
-
-#### SmoothCam  -for 3rd person players-
+#### SmoothCam  
 - Presets
-  - Load Preset
-    There are two presets available for you to use. I personally prefer the Modern one but some prefer Souls Like, try both and see which you like!
-- Make sure only the Alternate Conversation Camera Patch is ticked in Compatibility.
-
-#### Thieves Guild Requirements
-- Misc Options 
-  - Load Preset  
-Cycle through all the tabs
- - Load Preset again (now it will stick)
+  - Load Preset : Modern Camera Preset
   
+- Compatibility 
+  - Alternate Conversation Camera
+
+- Following
+   - Misc
+     - Shoulder Swap Key : (Something beside C which is used for jump) Note: Will never be used.
+
+#### Stamina Matters
+- Restrictions/Options
+   - Misc Stamina Options
+     - Stamina Regen Delay : 1.0
+     - Stamina regen delay when depleted : 1.5
+     - Player stamina rate : 22.0
+
+#### The Ultimate Dodge Mod  
+ - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
+   - A Keybinding example would be:
+      - Vanilla Sneak key within Options: Space
+      - Sneak key within TUDM's MCM: Q
+   - Now your character will roll/sidestep with Space and Sneak with Q
+   - I recommend using sidestep (personal preference)
+    - SideStep
+      - Invicibility Time Frame : .30
+ 
+  - Please Note: 
+    - You cannot dodge in the Starting Cell, you need to leave the Realm of Lorkhan first.
+    - **The first time you dodge, you'll be stuck in a weird position in the air. Press G (or your dodge swap key) twice to be unstuck.**
+
+- Npc Settings :
+  - NPC Dodge AI: Disabled
+
 #### Timing is Everything
 - Extra Options 
   - Load Preset  
 Cycle through all the tabs
  - Load Preset again (now it will stick)
 
-#### VioLens
-- Load Preset
+#### Trade&Barter
+- Barter Rates
+  - Settings
+      - Modify Barter Settings : Enable
+  - Presets
+      - Barter Presets : Difficult 
 
-#### Widget Mod: 
-- Maintenance
-    - Load User Settings? : Do it!
+#### True Directional Movement
+- General
+  - General Settings
+    - Dialogue Mode : Disable
+  - Target Lock
+    - Controls
+      - Toggle Target Lock Key : Mouse 5 (or alternatively a key near WASD like G)
+
+#### Wildcat (EnaiRim)
+(Use the config power before doing mcm and select remove power at the end)
+ - Dynamic Combat 
+    - Disable Swimming Stamina Cost : Enable
+ - Stamina Costs
+   - Turn everything to zero
+   - Disable Pulled/Held Bow Stamina Cost : Enable
+ - Injuries
+   - Disable Injuries: Enabled
+ - Timed Block
+   -Disable Timed Block
+
+#### Game Difficulty
+- The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
+
 
 # How to start playing
+You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
 
-After you finish customizing all the MCMs, the last thing to check is the Skyrim Unbound MCM. You can safely experiment with all the options in there, **EXCEPT choosing a Non-Dragonborn character.**
-Anything else in that menu can be customized to your liking. When you're ready, simply press the Start Adventure button in the Unbound MCM. You will then be prompted to create your character as usual.
 
-Please Note: Do NOT change sex or race with showracemenu after first confirming your character.
+# Last Things to Note
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. Running out of Stamina will cause your character to be unable to attack, block or dodge so always be mindful of your stamina bar. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. Normal attacks will stagger opponents and they can stagger you back. This modlist has been designed to play in third person so when you draw your weapons you will be forced into third person. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+
 
 ## FAQ
 
@@ -397,35 +377,8 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### I have a question
 
-Ask it in my Discord, link [here](https://discord.gg/ZgjVrXp) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
+Ask it in my Discord, link [here](https://discord.gg/ZHw7agzD) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
 
-### A face part is crashing me! | Some hair/facial hair clips!
-
-The 5th Facepart is a lie. Known and unsolvable. | Make sure to have selected a High Poly Head under Face Part, some hairstyle will remain bugged but it is known and I do not know how to fix them. The mod they're from doesn't only offer those bugged hairstyles so it remains for the rest of what it proposes.
-
-Some NPCs have a neck seam, that's known, I'm waiting for an update of [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313?tab=description) to solve them, I talk to the author so don't worry, it'll come. Play with them for now.
-
-### What perk does the new weapons use?
-- Rapiers get sword perks
-- Pikes get greatsword perks
-- Halberds get two-handed axe perks
-- Quarter Staffs get war hammer perks
-- Claws get dagger perks
-- Whips get mace perks
-
-### My character T-Poses!
-
-Cap your framerate, either with BethINI, SSE Display Tweaks, or ENB.
-
-### "I am bothered by the way NPCs look in the game!" and "How do NPCs look?? Are they rugged? Are they supermodels? Are they vanilla?"
-
-I really do not care and won't take your opinion into account. I've scoured a lot of NPC overhauls (from Eeekies', Northbourne, to Bijin, Pandorable or the Re-imagined Series) and handpicked them for the list so it fits ***MY*** tastes.
-
-If you wonder how they look, [here's a document which lists what overhauls who (for vanilla NPCs)](https://github.com/SovnSkyrim/QWEST/blob/main/NPC%20Merge%20Notes.md). 
-
-If you do not find someone, they're either from [Pride of Skyrim AIO](https://www.nexusmods.com/skyrimspecialedition/mods/48904) if a male, or [Courageous Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/50812) if female. If neither of those have an overhaul, it'll be from [High Poly NPC Overhaul - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44155). 
-
-Any criticism on that is NOT welcome, and it is, in fact, the only aspect of the game I do not take ANY criticism from. Hearing complaints about this stuff gives me an instant headache. I cannot please everybody, so I decided to please myself.
 
 ### Creation Club (CC Content) Support?
 
@@ -433,78 +386,17 @@ No, I don't like them.
 
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 
-Using them with Aldrnari would be like installing your own mods: Support is forfeited and they will NOT work without patching.
+Using them with Streamlined Skyrim would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
-### Why don't you wanna use Inigo/Legacy of the Dragonborn (LOTD)????? They're the best mods ever!!!!
-[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) has the answer, use Ctrl+F in there. Refusing to hear my opinion and accept it is a warnable behavior in my Discord.
-
-### Some sounds are missing, for example weapon swings/footsteps
-
-This can happen on rare occassions if your game and modlist are not both installed on your C:/ Drive. To fix it, please follow the instructions below, this does not void support:
-
-1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
-2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
-3. Delete Skyrim - Sounds.bsa from the Data folder.
-4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
-5. Go back to your Skyrim/Data folder. Right click anywhere and choose "Drop As" and then "Symbolic Link". You will see your sounds file with a shortcut symbol. You know it works when you do."
-6. Repeat this process for the file Skyrim - Voices_en0.bsa
-This would be enough for vanilla skyrim, but since this list uses a ton of different sound and audio mods, we are not quite done.
-
-In your Aldrnari MO2 instance, you will locate 2 seperators, one called "Audio", and one called "Music". You will need to repeat the process described above for every single mod in these two categories to make sure you have every single sound working properly. I know its tedious, but this is the only fix for this rather rare issue.
-
-However, instead of only taking the BSA files from each mod, i suggest taking the entire Mod folder, because it will help keep things organized.
-
-So, as an example:
-I made a folder called "Aldrnari Sound Fix" on my C:/ Drive. This folder now contains the two vanilla BSAs, plus every single Audio or Music mod. These are all sym linked back to the original mod folder. Im aware this is not optimal for people with seriously tiny C Drives, but its as good as it gets. For any questions regarding this specific issue, please @ Chanka on Sovns discord or the Wabbajack discord.
-
-### Please give us more fps... / A more performance friendly profile??
-
-It's a beta, it's a WIP, and I can't please everyone by now, but I can give you some info.
-
-I have 2 tips that voids you support as per Rule 11 of both Wabbajack and my Discords.
-- Regenerate DynDOLOD with other settings, not High
-     - Current DynDOLOD uses High and Ultra Trees, those are known to be FPS Heavy
-- Follow this set of instructions to put your ENB in a more performance mode:
-     - In Enbseries.ini; change those values:
-     - [EFFECT]
-	- EnableDepthOfField=false
-	- EnableNormalMappingShadows=false
-     - [SSAO_GAME]
-	- AOAmount=0.0
-	- AOAmountInterior=0.0
-     - [SSAO_SSIL]
-	- UseSelfIntersecting=false
-	- SourceTexturesScale=0.25
-	- SamplingQuality=1
-	- If you put intersecting to false, I strongly you to change SamplingRange=0.24 to SamplingRange=0.40 for balance the AO on face NPC in exterior
-     - [COMPLEXFIRELIGHTS]
-	- EnableShadow=false
-     - [COMPLEXPARTICLELIGHTS]
-	- EnableShadow=false
-	- EnableNormalMappingShadows=false
-     - [REFLECTION]
-	- Quality=-1
-     - [UNDERWATER]
-	- HighQualityCaustics=false
-     - [WATER]
-	- EnableTessellation=false
-
-Those are the easiest tweaks you can do.
 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Althro for the creation of the base, managing and curating the discord and being a very resourceful person. None of my work would simply exist without you. 
-- KFC for all the mental support, help during development, and volunteering to help. 
-- Chri3i for all the help during development, you are and keep being, a never ending help which is loved.
-- TheSpaniard and Chanka for all the support you're doing.
-- Crithion aka m.vlad for the art; trully amazing, I never spent my money so well.
-- Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
+
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord.**DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Changelog
 
