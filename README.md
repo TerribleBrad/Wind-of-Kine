@@ -3,6 +3,7 @@
 # Streamlined Skyrim
 
 - [Preamble](#preamble)
+- [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -48,7 +49,7 @@ If you want to take a look at the full modlist here is the link: https://modwat.
 
 Wabbajack Link: https://drive.google.com/file/d/1yWriviHTeducFEP-7TNCU16efVCWkoad/view?usp=sharing
 
-# Noteworthy Mods and What Gameplay to Expect.
+# Noteworthy Mods and What Gameplay to Expect
 
 Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are in the list to make sure there is always something new to do. The game is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
 
