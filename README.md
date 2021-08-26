@@ -20,7 +20,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Graphical Settings](#graphical-settings)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-    - [Getting an ENB](#getting-an-enb)
+    - [Optional Enb](#optional-enb)
     - [Profiles](#Profiles)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
@@ -48,13 +48,13 @@ If you want to take a look at the full modlist here is the link: https://modwat.
 
 Wabbajack Link: https://drive.google.com/file/d/1yWriviHTeducFEP-7TNCU16efVCWkoad/view?usp=sharing
 
-# Noteworthy Mods and what gameplay to expect.
+# Noteworthy Mods and What Gameplay to Expect.
 
 Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are in the list to make sure there is always something new to do. The game is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
 
 General Gameplay
 
-Vokrii Minimalistic Perks is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Odin Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters Lawbringer allows you to truly rid Skyrim of all of its atrocities.
+Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters Lawbringer allows you to truly rid Skyrim of all of its atrocities.
 
 Combat
 
@@ -62,7 +62,7 @@ SkySA Attack Commitment and True Directional Movement are the bread and butter o
 
 Roleplay
 
-Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Wintersun Faiths of Skyrim you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completeing quests and discovering locations. A smaller minimalistic mod called Skyrim's Got Talent allows your character to become a bard and boasts an immerisve progression system and new instrumental songs that fit right into the game.
+Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completeing quests and discovering locations. A smaller minimalistic mod called Skyrim's Got Talent allows your character to become a bard and boasts an immerisve progression system and new instrumental songs that fit right into the game.
 
 Quests
 
@@ -208,8 +208,6 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 
 Streamlined Skyrim doesn't come with an ENB, but you can add one. I tested out Glazed ENB: https://www.nexusmods.com/skyrimspecialedition/mods/53316?tab=description and got around 30-40 fps outdoors. Obviously the game is going to look a lot better with an ENB, but you will sacrifice performance(unless you've got a beefy computer). 
 
-How to install them? Simple, in the **installation folder** there will be a folder named **ENBs**, in there the three ENBs are located. Simply **copy the contents of the folder named after the preset you want to use to the Skyrim Special Edition folder**, same way as the "Copy Game Folder Files" step.
-
 ## Updating
 
 If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -220,7 +218,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## How to start up Aldrnari
+## How to start up Streamlined Skyrim
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -244,8 +242,8 @@ Select New to start a new game. Once you have finished character creation allow 
      - Timed Block Options
        - Choose Block Damage Modifier : 100%
        - Timed Block Winder : 0.3 Seconds
-       - NPC Stagger TIme : 1 Seconds
-       - Block CoolDown TIme : 0 Seconds
+       - NPC Stagger Time : 1 Seconds
+       - Block CoolDown Time : 0 Seconds
        - Stamina Cost : 2.5 Percent
        - Stamina Requirement : 0
      - Magic Parrying Options
@@ -300,8 +298,8 @@ Select New to start a new game. Once you have finished character creation allow 
 - Restrictions/Options
    - Misc Stamina Options
      - Stamina Regen Delay : 1.0
-     - Stamina regen delay when depleted : 1.5
-     - Player stamina rate : 22.0
+     - Stamina regen delay when depleted : 2.0
+     - Player stamina rate : 15.0
 
 #### The Ultimate Dodge Mod  
  - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
@@ -354,7 +352,7 @@ Cycle through all the tabs
    -Disable Timed Block
 
 #### Game Difficulty
-- The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert. Adept is also fine.
+- The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert.
 
 
 # How to start playing
@@ -392,6 +390,7 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
+- Halgari and everyone in the WJ Team - Wabbajack is absolutely incredible and so are you
 
 
 ## Contact
@@ -400,4 +399,4 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/Aldrnari/blob/main/Changelog.md).
+See [Changelog](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/Changelog.md).
