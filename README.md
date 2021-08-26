@@ -388,7 +388,7 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Halgari and everyone in the WJ Team - Wabbajack is absolutely incredible and so are you
+- Halgari and everyone in the WJ Team.
 
 
 ## Contact
