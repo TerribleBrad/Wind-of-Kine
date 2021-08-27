@@ -19,7 +19,6 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
-    - [Graphical Settings](#graphical-settings)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
     - [Optional Enb](#optional-enb)
     - [Profiles](#Profiles)
