@@ -326,7 +326,7 @@ Cycle through all the tabs
     - Dialogue Mode : Disable
   - Target Lock
     - Controls
-      - Toggle Target Lock Key : Mouse 5 (or alternatively a key near WASD like G)
+      - Toggle Target Lock Key : Mouse 4 (or alternatively a key near WASD like G)
 #### Violens
 - Profile System
    - Menu Settings
