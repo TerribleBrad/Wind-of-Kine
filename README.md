@@ -239,18 +239,14 @@ Select New to start a new game. Once you have finished character creation allow 
        - Choose Block Damage Modifier : 100%
        - Timed Block Winder : 0.3 Seconds
        - NPC Stagger Time : 1 Seconds
-       - Block CoolDown Time : 0 Seconds
-       - Stamina Cost : 2.5 Percent
-       - Stamina Requirement : 0
      - Magic Parrying Options
-       - Magicka Requirement : 0 Magicka
        - Reflect Magic : Disabled
        - Npc Magic Stagger : Disabled
      - Misc Options
        - Perfect Block Message : Disabled
 
 #### Dual Wield Parrying
-- Block Key : Mouse 4 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
+- Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
 #### Immersive HUD
 - Activation
@@ -265,6 +261,10 @@ Select New to start a new game. Once you have finished character creation allow 
 - Presets
   - Save Settings with FISS
     - Load User Settings? : GO
+
+#### NASC
+- Mod Options
+  - Stamina Consumption 5
 
 #### Optimal Potion Hotkey
 - Hotkeys
@@ -289,13 +289,6 @@ Select New to start a new game. Once you have finished character creation allow 
 - Following
    - Misc
      - Shoulder Swap Key : (Something beside C which is used for jump) Note: Will never be used.
-
-#### Stamina Matters
-- Restrictions/Options
-   - Misc Stamina Options
-     - Stamina Regen Delay : 1.0
-     - Stamina regen delay when depleted : 2.0
-     - Player stamina rate : 15.0
 
 #### The Ultimate Dodge Mod  
  - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
@@ -334,18 +327,10 @@ Cycle through all the tabs
   - Target Lock
     - Controls
       - Toggle Target Lock Key : Mouse 5 (or alternatively a key near WASD like G)
-
-#### Wildcat (EnaiRim)
-(Use the config power before doing mcm and select remove power at the end)
- - Dynamic Combat 
-    - Disable Swimming Stamina Cost : Enable
- - Stamina Costs
-   - Turn everything to zero
-   - Disable Pulled/Held Bow Stamina Cost : Enable
- - Injuries
-   - Disable Injuries: Enabled
- - Timed Block
-   -Disable Timed Block
+#### Violens
+- Profile System
+   - Menu Settings
+      - Load : Streamlined Skyrim Violens
 
 #### Game Difficulty
 - The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert.
