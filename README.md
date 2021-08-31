@@ -366,8 +366,11 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 
 ## Credits and Thanks
 
-- _YOU_ for actually reading the readme. Thanks a ton!!
+- _YOU_ for actually reading the readme. Thanks a ton!
 - Halgari and everyone in the WJ Team.
+- Sovn for teaching me how to use xEdit, testing my list, letting me fork his Readme and answering all of my questions.
+- Chris for also teaching me xEdit, testing my list and finding everything I needed to patch.
+- To the members of my Discord, who gave wonderful feedback/suggestions and bug finding.
 
 
 ## Contact
