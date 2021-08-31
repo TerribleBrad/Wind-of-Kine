@@ -282,10 +282,6 @@ Select New to start a new game. Once you have finished character creation allow 
 #### SmoothCam  
 - Presets
   - Load Preset : Modern Camera Preset
-  
-- Compatibility 
-  - Alternate Conversation Camera
-
 - Following
    - Misc
      - Shoulder Swap Key : (Something beside C which is used for jump) Note: Will never be used.
