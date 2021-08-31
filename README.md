@@ -264,7 +264,7 @@ Select New to start a new game. Once you have finished character creation allow 
 
 #### NASC
 - Mod Options
-  - Stamina Consumption 5
+  - Stamina Consumption : 10
 
 #### Optimal Potion Hotkey
 - Hotkeys
