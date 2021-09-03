@@ -248,6 +248,20 @@ Select New to start a new game. Once you have finished character creation allow 
 #### Dual Wield Parrying
 - Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
+#### EVG Conditional Idles:
+- Player
+    - Movement Enabled:
+        - Cold : Disabled
+        - Injured : Disabled
+    - Idle
+        - Fatigued Stage 1 : Disable
+        - Fatigued Stage 2 : Disable
+-NPC
+    - Movement Enabled:
+        - Cold : Disabled
+    - Idle
+        - Fatigued Stage 1 : Disable
+        
 #### Immersive HUD
 - Activation
   - Compass Activation
@@ -285,6 +299,9 @@ Select New to start a new game. Once you have finished character creation allow 
 - Following
    - Misc
      - Shoulder Swap Key : (Something beside C which is used for jump) Note: Will never be used.
+- Crosshair
+   - Sneak Settings
+      - Enable Stealth Meter Offset : Disable
 
 #### The Ultimate Dodge Mod  
  - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
@@ -321,6 +338,8 @@ Cycle through all the tabs
   - General Settings
     - Dialogue Mode : Disable
   - Target Lock
+    - Target Lock Settings
+       - Target Lock Maximum Distance : 6000
     - Controls
       - Toggle Target Lock Key : Mouse 4 (or alternatively a key near WASD like G)
 #### Violens
