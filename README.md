@@ -372,7 +372,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### Controller Support
 
-I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me!
+I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See [Contact](contact)
 
 ### I have a question
 
