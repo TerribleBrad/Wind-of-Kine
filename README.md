@@ -27,7 +27,7 @@
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
 - [Removing the Modlist](#removing-the-modlist)
-- [Controller Support].(#controller-support)
+- [Controller Support](#controller-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 - [Contributing](#contributing)
