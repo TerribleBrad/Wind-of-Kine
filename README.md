@@ -356,7 +356,7 @@ Cycle through all the tabs
 You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
 
 
-# Last Things to Note
+## Last Things to Note
 Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. This modlist has been designed to play in third person so when you draw your weapons you will be forced into third person. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
 
 
