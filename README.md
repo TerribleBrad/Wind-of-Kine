@@ -258,7 +258,7 @@ Select New to start a new game. Once you have finished character creation allow 
     - Idle
         - Fatigued Stage 1 : Disable
         - Fatigued Stage 2 : Disable
--NPC
+- NPC
     - Movement Enabled:
         - Cold : Disabled
     - Idle
