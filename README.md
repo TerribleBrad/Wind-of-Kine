@@ -269,7 +269,7 @@ Select New to start a new game. Once you have finished character creation allow 
   - Compass Activation
     - iHUD hotkey : (your choice you'll click it once and never use it again)
     - Key press toggles : Enabled
-  - Corsshair Activation
+  - Crosshair Activation
     - Wielding ranged weapon : Disabled
     - Wielding spell : Disabled
 
