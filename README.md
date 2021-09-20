@@ -24,7 +24,7 @@
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
-- [Last Thing to Note](#Last-thing-to-note)
+- [Last Things to Note](#Last-things-to-note)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
   - [Removing the Modlist](#removing-the-modlist)
