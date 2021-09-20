@@ -27,6 +27,7 @@
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
 - [Removing the Modlist](#removing-the-modlist)
+- [Controller Support].(#controller-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -369,6 +370,10 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up for it, in my opinion. Skyrim isn't made for it; if you disagree, check [this guide](https://docs.google.com/document/d/1D3Yapmu_IkTWSszJ4h9wpNxgNLCi46f7XiJknpdMb6E/edit?usp=sharing) by my friend Mantis for compatibility with such screens.
 
+### Controller Support
+
+I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See [Contact].(contact)
+
 ### I have a question
 
 Ask it in my Discord, link [here](https://discord.gg/ZHw7agzD) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
@@ -394,7 +399,7 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking out my own [Discord](https://discord.gg/gPWvEMwq) .**DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking out my own [Discord](https://discord.gg/JK3V6GwqfM) .**DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Changelog
 
