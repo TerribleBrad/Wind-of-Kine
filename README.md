@@ -325,8 +325,6 @@ Select New to start a new game. Once you have finished character creation allow 
 #### Timing is Everything
 - Extra Options 
   - Load Preset  
-Cycle through all the tabs
- - Load Preset again (now it will stick)
 
 #### Trade&Barter
 - Barter Rates
@@ -337,13 +335,9 @@ Cycle through all the tabs
 
 #### True Directional Movement
 - General
-  - General Settings
-    - Dialogue Mode : Disable
-  - Target Lock
-    - Target Lock Settings
-       - Target Lock Maximum Distance : 6000
     - Controls
-      - Toggle Target Lock Key : Mouse 4 (or alternatively a key near WASD like G)
+      - Toggle Target Lock Key : ( It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G)
+   
 #### Violens
 - Profile System
    - Menu Settings
