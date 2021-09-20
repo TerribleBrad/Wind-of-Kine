@@ -24,6 +24,7 @@
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
+- [Last Thing to Note](#Last-thing-to-note)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
   - [Removing the Modlist](#removing-the-modlist)
@@ -352,7 +353,7 @@ Cycle through all the tabs
 - The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert.
 
 
-# How to start playing
+## How to start playing
 You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
 
 
@@ -372,7 +373,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### Controller Support
 
-I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See Contact below
+I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See [Contact](#contact)
 
 ### I have a question
 
