@@ -26,8 +26,8 @@
 - [How to start playing](#How-to-start-playing)
 - [FAQ](#faq)
   - [Ultrawide Options](#ultrawide-options)
-- [Removing the Modlist](#removing-the-modlist)
-- [Controller Support](#controller-support)
+  - [Removing the Modlist](#removing-the-modlist)
+  - [Controller Support](#controller-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -372,7 +372,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### Controller Support
 
-I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See [Contact](contact)
+I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See Contact below
 
 ### I have a question
 
