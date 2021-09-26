@@ -44,7 +44,7 @@ If you want to take a look at the full modlist here is the link: https://modwat.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors seek out help from me or the other folks on the Wabbajack Discord**
 
-Wabbajack Link: https://drive.google.com/file/d/1-pGk30GOyqubt8RnMw3r_4bAUMz3MD14/view?usp=sharing
+Wabbajack Link: https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/Wabbajack%20File%20and%20Other%20Documents
 
 # Noteworthy Mods and What Gameplay to Expect
 
