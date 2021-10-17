@@ -64,7 +64,7 @@ Streamlined Skyrim has a number of mods that increase the roleplay options of yo
 
 **Quests**:
 
-To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. Vanilla questlines are overhauled with At Your Own Pace which gives the Main Questline, Thieves Guild Questline, Bard's College Questline and The College of Winterhold Questline reasonable breaks allowing you to do other quests without feeling like there is a time crunch.
+To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. And finally Beyond Skyrim Bruma which offers a DLC sized amount of new content. Vanilla questlines are overhauled with At Your Own Pace which gives the Main Questline, Thieves Guild Questline, Bard's College Questline and The College of Winterhold Questline reasonable breaks allowing you to do other quests without feeling like there is a time crunch.
 
 **Followers**:
 
@@ -85,7 +85,7 @@ RAM: 16 GB
 
 Storage: 500 GB SSD
 
-Fps: 55-60
+Fps: 52-60
 
 #### Size on Drive
 
@@ -304,23 +304,6 @@ Select New to start a new game. Once you have finished character creation allow 
 - Crosshair
    - Sneak Settings
       - Enable Stealth Meter Offset : Disable
-
-#### The Ultimate Dodge Mod  
- - Here is where you configure which key will allow you to Sneak (or crouch) and which will allow you to Dodge. TUDM hijacks the vanilla sneak key to have no delay or script lag.
-   - A Keybinding example would be:
-      - Vanilla Sneak key within Options: Space
-      - Sneak key within TUDM's MCM: Q
-   - Now your character will roll/sidestep with Space and Sneak with Q
-   - I recommend using sidestep (personal preference)
-    - SideStep
-      - Invicibility Time Frame : .30
- 
-  - Please Note: 
-    - You cannot dodge in the Starting Cell, you need to leave the Realm of Lorkhan first.
-    - **The first time you dodge, you'll be stuck in a weird position in the air. Press G (or your dodge swap key) twice to be unstuck.**
-
-- Npc Settings :
-  - NPC Dodge AI: Disabled
 
 #### Timing is Everything
 - Extra Options 
