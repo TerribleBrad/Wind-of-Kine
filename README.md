@@ -354,7 +354,7 @@ I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyr
 
 ### I have a question
 
-Ask it in my Discord, link [here](https://discord.gg/ZHw7agzD) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
+Ask it in my Discord, link [here](https://discord.gg/JK3V6GwqfM) or Wabbajack's Discord, [link here](https://discord.com/invite/wabbajack). But make sure you're using the right support channel and not a general channel!
 
 
 ### Creation Club (CC Content) Support?
