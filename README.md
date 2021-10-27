@@ -56,7 +56,7 @@ Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and
 
 **Combat**:
 
-SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using The Ultimate Dodge Mod completely negating damage. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. With Open World Loot, you will see higher level enemies earlier and give the you a solid sense of progression as you level up. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
+SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using TK Dodge completely negating damage. AMMCO prevents running during combat forcing you to pay close attention to your stamina. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. With Open World Loot, you will see higher level enemies earlier and give the you a solid sense of progression as you level up. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
 
 **Roleplay Mechanics**:
 
@@ -250,7 +250,7 @@ Select New to start a new game. Once you have finished character creation allow 
 #### Dual Wield Parrying
 - Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
 
-#### EVG Conditional Idles:
+#### EVG Conditional Idles: (Personal Preference)
 - Player
     - Movement Enabled:
         - Cold : Disabled
@@ -327,7 +327,7 @@ Select New to start a new game. Once you have finished character creation allow 
       - Load : Streamlined Skyrim Violens
 
 #### Game Difficulty
-- The difficulty in this Modlist is quite a bit harder than Vanilla so I highly suggest not using Legendary. I personally play on Expert.
+- The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
 
 
 ## How to start playing
@@ -335,7 +335,7 @@ You are now in the Realm of Lorkhan which allows you to select some attributes, 
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge (Note: When first starting up the game it may take a second for dodges to work correctly). If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. This modlist has been designed to play in third person so when you draw your weapons you will be forced into third person. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
 
 
 ## FAQ
@@ -350,7 +350,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### Controller Support
 
-I don't use a controller when playing Skyrim so I haven't setup Streamlined Skyrim to work with one. Some people have had some issue using controllers so be aware. If you know how I could set up controller support reach out to me! See [Contact](#contact)
+I don't play Skyrim with a controller so at the moment I don't offer support for it. Although, I am working on mkaing Streamlined Controller friendly :)
 
 ### I have a question
 
