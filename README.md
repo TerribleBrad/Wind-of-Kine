@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/CGEEugR.png)
+![Logo](file:///C:/Users/Brad%20Stimpson/Desktop/STEAM%20LIBRARY/userdata/1027248650/760/remote/489830/screenshots/Streamlined%20SkyrimScaled.webp)
 
 # Streamlined Skyrim
 
