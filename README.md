@@ -377,7 +377,7 @@ Using them with Streamlined Skyrim would be like installing your own mods: Suppo
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking out my own [Discord](https://discord.gg/JK3V6GwqfM) .**DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), feel free to check out my own [Discord](https://discord.gg/JK3V6GwqfM). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Changelog
 
