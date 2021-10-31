@@ -1,4 +1,4 @@
-#### Streamlined Skyrim 1.0 : First Offcial Release
+#### Streamlined Skyrim 1.0 : First Official Release
 
 
 
