@@ -44,8 +44,6 @@ If you want to take a look at the full modlist here is the link: https://modwat.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors seek out help from me or the other folks on the Wabbajack Discord**
 
-Wabbajack Link: https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/Wabbajack%20File%20and%20Other%20Documents
-
 # Noteworthy Mods and What Gameplay to Expect
 
 Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are in the list to make sure there is always something new to do. The game is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
