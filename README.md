@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined%20SkyrimScaled.webp)
+![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined%20Skyrim2.webp)
 
 # Streamlined Skyrim
 
