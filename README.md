@@ -69,7 +69,7 @@ To make sure you never run out of things to do, Streamlined Skyrim is equipped w
 
 **Followers**:
 
-Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. From Lucien, to Inigo and from Hoth to Serena Dialogue addon you'll be sure to get your fill of unique followers. And we can't forget about the doggo companions: Gladys the Corgi, True Meeko and Vigilance Reborn.
+Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. From Lucien, to Inigo and from Hoth to Serena Dialogue Addon you'll be sure to get your fill of unique followers. And we can't forget about the doggo companions: Gladys the Corgi, True Meeko and Vigilance Reborn.
 
 # Installation
 ### Prerequisites
