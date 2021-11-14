@@ -44,7 +44,8 @@ If you want to take a look at the full modlist here is the [link](https://modwat
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
 
-## Streamlined Skyrim does not work with Anniversary Addition of Skyrim!!! If you accidently updated use [this](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade. ##
+## Streamlined Skyrim does not work with Anniversary Addition!! If you accidently updated use [this](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade. ##
+
 
 # Noteworthy Mods and What Gameplay to Expect
 
