@@ -36,13 +36,15 @@
 
 # Preamble
 
-Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, fully voiced followers, straightforward gameplay, overhauled locations all while staying performance friendly. Most of the gameplay changes are vanilla plus and minimalistic (except for the combat) keeping things nice and simple. Skyrim's combat has been brought up to 2021 standards making it exciting and challenging. Once you learn the basics of the list you are able to play the game without needing to micromanage. The modlist makes Skyrim, well, streamlined.
+Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, fully voiced followers, straightforward gameplay, overhauled locations all while staying performance friendly. Using SkySA and True Directional Movement, Skyrim's combat has been brought up to 2021 standards. Once you learn the basics of the list you are able to play the game without needing to micromanage. The modlist makes Skyrim, well, streamlined.
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
 If you want to take a look at the full modlist here is the link: https://modwat.ch/u/TerribleBrad/plugins
 
-**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors seek out help from me or the other folks on the Wabbajack Discord**
+**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
+
+## Streamlined Skyrim does not work with Anniversary Addition of Skyrim!!! If you accidently updated use [this](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) to downgrade. ##
 
 # Noteworthy Mods and What Gameplay to Expect
 
@@ -296,9 +298,6 @@ Select New to start a new game. Once you have finished character creation allow 
 #### SmoothCam  
 - Presets
   - Load Preset : Modern Camera Preset
-- Following
-   - Misc
-     - Shoulder Swap Key : (Something beside C which is used for jump) Note: Will never be used.
 - Crosshair
    - Sneak Settings
       - Enable Stealth Meter Offset : Disable
@@ -327,13 +326,19 @@ Select New to start a new game. Once you have finished character creation allow 
 #### Game Difficulty
 - The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
 
+## Key Bindings:
+  - Space bar : it is the dodge key in this mod list. You will need to change jump to be a different key to allow yourself to dodge.
+  - Toggle Target Lock : Mouse 4. If you don't have a mouse with extra buttons use a key near WASD like G
+  - Health Potion Hotkey : H
+  - Dual Wield Block : Mouse 5
+ 
 
 ## How to start playing
-You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
+    - You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+    - Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
 
 
 ## FAQ
