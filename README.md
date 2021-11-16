@@ -53,7 +53,7 @@ Streamlined Skyrim will drastically change your game. Perk trees will have new a
 
 **General Gameplay**:
 
-Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters Lawbringer allows you to truly rid Skyrim of all of its atrocities.
+Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters, Lawbringer allows you to truly rid Skyrim of all of its atrocities.
 
 **Combat**:
 
@@ -65,7 +65,7 @@ Streamlined Skyrim has a number of mods that increase the roleplay options of yo
 
 **Quests**:
 
-To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. And finally Beyond Skyrim Bruma which offers a DLC sized amount of new content. Vanilla questlines are overhauled with At Your Own Pace which gives the Main Questline, Thieves Guild Questline, Bard's College Questline and The College of Winterhold Questline reasonable breaks allowing you to do other quests without feeling like there is a time crunch.
+To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. And finally Beyond Skyrim Bruma which offers a DLC sized amount of new content. 
 
 **Followers**:
 
@@ -156,13 +156,12 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Download the Streamlined Skyrim Wabbajack file linked above
+1. Find Streamlined Skyrim in the Wabbajack user interface and press the download arrow.
 2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Streamliend Skyrim." This will be your "Installation" folder.
 3. Create another folder called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish. This will be your "Downloads" folder.
-4. Click on the Streamlined Skyrim Wabbajack file. 
-5. Select your Installation and Download folders (the ones you just made)
-6. Click the Go/Begin button.
-7. Wait for Wabbajack to finish.
+4. Select your Installation and Download folders (the ones you just made)
+5. Click the Go/Begin button.
+6. Wait for Wabbajack to finish.
 
 
 ### Problems with Wabbajack
@@ -184,10 +183,6 @@ This can happen when I update the modlist. Check if a new update is available an
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ### Post-Installation
-
-## Copy Game Folder Files
-
-When the installation is complete, copy the files in the `Streamlied Skyrim\Game Folder Files` folder and paste them into your Skyrim folder (with the SkyrimSE.exe and the data folder). [HERE](http://prntscr.com/124984m).
 
 ## Pagefile in prevention of memory crashes
 
@@ -221,7 +216,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
-Select New to start a new game. Once you have finished character creation allow all of the start of game scripts to finish loading before doing anything. Do NOT change race with showracemenu after confirming your character! It is time to configure all the mcm menus!
+Select 'New' to start a new game. Once you have finished character creation allow all of the start of game scripts to finish loading before doing anything. Do NOT change race with showracemenu after confirming your character! It is time to configure all the mcm menus!
 
 
 ## In-Game MCM Options
