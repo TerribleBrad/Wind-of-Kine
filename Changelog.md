@@ -9,6 +9,8 @@
         - Pilgrim
         - Thaumaturgy
         - Adamant
+        - Lucien
+        - Serana Dialogue Addon
         
     - Added:
         - Security Overhaul
