@@ -3,6 +3,12 @@
         - TK Dodge RE
         - Wyrmtamer
         - Lawbringer
+        - Wyrmstooth
+        - Magical College of Winterhold
+        - Engorged Robber's Gorge
+        - Pilgrim
+        - Thaumaturgy
+        - Adamant
         
     - Added:
         - Security Overhaul
@@ -19,15 +25,17 @@
         
     - Removed:
         - JS Lock Overhaul
+        - At Your Own Pace
         
-    - Generated:
+    - Regenerated:
         - Nemesis
-        - Lodgen
         - Texgen
         - Dyndolod
         - Synthesis
         
      - Some Custom patches
+     
+     - Download Issue is fixed (no longer need to manually download)
      
      - Not Save Compatible!
      
