@@ -205,7 +205,7 @@ Otherwise, set a custom size for the drive it's currently on and increase the ma
 
 ## Optional ENB
 
-Streamlined Skyrim doesn't come with an ENB, but you can add one. I tested out Glazed ENB: https://www.nexusmods.com/skyrimspecialedition/mods/53316?tab=description and got around 30-40 fps outdoors. Obviously the game is going to look a lot better with an ENB, but you will sacrifice performance(unless you've got a beefy computer). 
+Streamlined Skyrim doesn't come with an ENB, but you can add one. I tested out [Glazed ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53316?tab=description) and got around 30-40 fps outdoors. Obviously the game is going to look a lot better with an ENB, but you will sacrifice performance(unless you've got a beefy computer). 
 
 ## Updating
 
