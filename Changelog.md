@@ -31,7 +31,7 @@
     - Removed:
         - At Your Own Pace
         - AMMCO
-        -
+        - Ancient Nord Stalhrim
         
     - Regenerated:
         - Nemesis
