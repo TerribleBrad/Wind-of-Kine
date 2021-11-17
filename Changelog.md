@@ -12,6 +12,7 @@
         - Lucien
         - Serana Dialogue Addon
         - Reliquary of Myth
+        - Haugbui - A draugr Overhaul
         
     - Added:
         - Security Overhaul
@@ -25,10 +26,12 @@
         - Alternate Auri
         - Imperial Law - Lawbringer for Bruma
         - House Rule - Lawbringer for Solstheim
+        - Slow Sprint Bug Fix
         
     - Removed:
-        - JS Lock Overhaul
         - At Your Own Pace
+        - AMMCO
+        -
         
     - Regenerated:
         - Nemesis
