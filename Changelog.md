@@ -11,6 +11,7 @@
         - Adamant
         - Lucien
         - Serana Dialogue Addon
+        - Reliquary of Myth
         
     - Added:
         - Security Overhaul
