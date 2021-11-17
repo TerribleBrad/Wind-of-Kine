@@ -39,8 +39,11 @@
         - Texgen
         - Dyndolod
         - Synthesis
+        
     - Misc Changes:
        - Created some custom patches  
+       - Lowered experience gain for finding locations
+       - Removed some OP weapons from Realm of Lorkhan
        - Download issue is fixed (no longer need to manually download)
        - Streamlined Now uses 'Stock Game Folder" so the complicated process of copying game files is no longer necessary.
        
