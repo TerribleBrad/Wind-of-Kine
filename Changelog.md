@@ -13,6 +13,7 @@
         - Serana Dialogue Addon
         - Reliquary of Myth
         - Haugbui - A draugr Overhaul
+        - Forceful Tongue
         
     - Added:
         - Security Overhaul
@@ -38,14 +39,13 @@
         - Texgen
         - Dyndolod
         - Synthesis
-        
-     - Some Custom patches
-     
-     - Download Issue is fixed (no longer need to manually download)
-     
-     - Streamlined Now uses 'Stock Game Folder" so the complicated process of copying game files is no longer necessary.
-     
-     - Not Save Compatible!
+    - Misc Changes:
+       - Created some custom patches  
+       - Download issue is fixed (no longer need to manually download)
+       - Streamlined Now uses 'Stock Game Folder" so the complicated process of copying game files is no longer necessary.
+       
+       
+       - Not Save Compatible!
      
 #### Streamlined Skyrim 1.0.1 :
     - Updated
