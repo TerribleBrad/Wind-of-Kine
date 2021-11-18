@@ -36,7 +36,7 @@
 
 # Preamble
 
-Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, fully voiced followers, straightforward gameplay, overhauled locations all while staying performance friendly. Using SkySA and True Directional Movement, Skyrim's combat has been brought up to 2021 standards. Once you learn the basics of the list you are able to play the game without needing to micromanage. The modlist makes Skyrim, well, streamlined.
+Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Using SkySA, True Directional Movement, Tk Dodge, Skyrim's combat has never been more Streamlined.
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
@@ -49,7 +49,7 @@ If you want to take a look at the full modlist here is the [link](https://modwat
 
 # Noteworthy Mods and What Gameplay to Expect
 
-Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are in the list to make sure there is always something new to do. The game is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
+Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are featured in the list to make sure there is always something new to do. The gameplay is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
 
 **General Gameplay**:
 
@@ -74,7 +74,7 @@ Streamlined Skyrim comes with all of the best followers that the Skyrim modding 
 # Installation
 ### Prerequisites
 #### PC Specifications
-Streamlined Skyrim is designed for low to mid tier systems and does not include an ENB (although you can add one. See Optional ENB)
+Streamlined Skyrim is designed for low to mid tier systems and does not include an ENB.
 
 TerribleBrad’s System:
 
@@ -86,15 +86,15 @@ RAM: 16 GB
 
 Storage: 500 GB SSD
 
-Fps: 52-60
+Fps: 50-60
 
 #### Size on Drive
 
-  - Over 62.7 GB for the Downloads folder
-  - Over 87.3 GB for the Installation folder
+  - Over 54.4 GB for the Downloads folder
+  - Over 89.6 GB for the Installation folder
   - ~15 GB for temporary files
 
-So 165 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
+So 159 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
 
 ### Pre-Installation
 
@@ -141,6 +141,18 @@ After you have done everything above and got a clean SSE installation ready, sta
 3. Check _Windowed Mode_ and _Borderless_
 
 Start the game and exit once you're in the main menu.
+
+## Revert to pre-AE Skyrim
+Streamlined Skyrim does not currently support Skyrim Anniversary Edition.
+
+If you downloaded or updated Skyrim SE after 11/11/2021, you are on version 1.6.318.0 which will not work with Streamlined, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to 1.5.97.0 before you can proceed.
+
+Download halgari’s [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) from the Nexus (Full Patcher).
+Extract the contents of the archive to a convenient location and run Patcher.exe.
+It should find your Skyrim SE folder automatically and display the file path.
+Click the green Start Patching button and wait for the process to complete.
+When the tool returns Finished Patching, enjoy your game!, you can close it and proceed.
+Skyrim SE Version Downgrade
 
 ### Using Wabbajack
 
@@ -197,10 +209,6 @@ If you've never touched the pagefile, perform the following steps to prevent fro
 4. Disable 'Automatically manage paging file size for all drives'
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
-
-## Optional ENB
-
-Streamlined Skyrim doesn't come with an ENB, but you can add one. I tested out [Glazed ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53316?tab=description) and got around 30-40 fps outdoors. Obviously the game is going to look a lot better with an ENB, but you will sacrifice performance(unless you've got a beefy computer). 
 
 ## Updating
 
@@ -327,6 +335,8 @@ Select 'New' to start a new game. Once you have finished character creation allo
   - Toggle Target Lock : Mouse 4. If you don't have a mouse with extra buttons use a key near WASD like G
   - Health Potion Hotkey : H
   - Dual Wield Block : Mouse 5
+  - Map: x
+  - Jump: c
  
 
 ## How to start playing
@@ -334,7 +344,7 @@ You are now in the Realm of Lorkhan which allows you to select some attributes, 
 
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. The mouse wheel allows you to switch between locked on targets. Optimal potion hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Optimal Potion Hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
 
 
 ## FAQ
@@ -349,7 +359,7 @@ I have an ultra-wide, but it's just not worth the hassle of setting Skyrim up fo
 
 ### Controller Support
 
-I don't play Skyrim with a controller so at the moment I don't offer support for it. Although, I am working on mkaing Streamlined Controller friendly :)
+I don't play Skyrim with a controller so at the moment I don't offer support for it. Although, I am working on making Streamlined Controller friendly :)
 
 ### I have a question
 
