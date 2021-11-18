@@ -61,7 +61,7 @@ SkySA Attack Commitment and True Directional Movement are the bread and butter o
 
 **Roleplay Mechanics**:
 
-Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completeing quests and discovering locations. Skyrim's Got Talent allows your character to become a bard and boasts an immersive progression system and new instrumental songs that fit right into the game.
+Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completing quests and discovering locations. Skyrim's Got Talent allows your character to become a bard and boasts an immersive progression system and new instrumental songs that fit right into the game.
 
 **Quests**:
 
