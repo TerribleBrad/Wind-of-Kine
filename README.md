@@ -36,7 +36,7 @@
 
 # Preamble
 
-Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Using SkySA, True Directional Movement, Tk Dodge, Skyrim's combat has never been more Streamlined.
+Streamlined Skyrim offers modernized combat, new quests, roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Using SkySA, True Directional Movement, and Tk Dodge, Skyrim's combat has never been more Streamlined.
 
 Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
 
