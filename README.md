@@ -1,6 +1,8 @@
-![Logo](https://raw.githubusercontent.com/TerribleBrad/Streamlined-Skyrim/main/Streamlined%20SkyrimBOld.webp)
+MAJOR WIP. THIS IS NOT COMPLETE!!!!
 
-# Streamlined Skyrim
+![Logo]()
+
+# Wind of Kine
 
 - [Preamble](#preamble)
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
@@ -20,7 +22,6 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Pagefile in prevention of memory crashes](#pagefile-in-prevention-of-memory-crashes)
-    - [Optional Enb](#optional-enb)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [How to start playing](#How-to-start-playing)
@@ -36,11 +37,10 @@
 
 # Preamble
 
-Streamlined Skyrim offers modernized combat, new quests, enhanced roleplay mechanics, custom voiced followers, straightforward gameplay, and overhauled locations all while staying performance friendly. Using SkySA, True Directional Movement, and Tk Dodge, Skyrim's combat has never been more Streamlined.
+Wind of Kine is a vanilla+ modlist with modernized combat. Visuals have been greatly enhanced 
 
-Streamlined Skyrim is a fork of the fantastic SME/FT list which I highly recommend to those who want to create their own modlist for Skyrim Special Edition.
+Streamlined Skyrim is a fork of the my own list Streamlined Skyrim list
 
-If you want to take a look at the full modlist here is the [link](https://modwat.ch/u/TerribleBrad/plugins)
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
 
@@ -48,33 +48,12 @@ If you want to take a look at the full modlist here is the [link](https://modwat
 
 
 # Noteworthy Mods and What Gameplay to Expect
-
-Streamlined Skyrim will drastically change your game. Perk trees will have new and interesting perks that offer more build flexibility. Combat is akin to what you might see in a Witcher or Dark Souls game. All of the best quests and followers are featured in the list to make sure there is always something new to do. The gameplay is rather difficult, but still fair. Roleplay mechanics have been added to further enhance Skyrim's replayablity.
-
-**General Gameplay**:
-
-Adamant - A Perk Overhaul is used to overhaul the perk tree allowing for new and unique character builds. Vanilla spells, scrolls and staffs are overhauled with Mysticism Magic of Skyrim which also adds some new spells that fit seemlessly into the game. Trade and Barter is used to make Skyrim's economy less forgiving making it more difficult to make coin. For those who love playing hero characters, Lawbringer allows you to truly rid Skyrim of all of its atrocities.
-
-**Combat**:
-
-SkySA Attack Commitment and True Directional Movement are the bread and butter of Streamlined Skyrim's combat overhaul. SkySA forces you to commit to your attacks and TDM allows for movement in all directions and target lock on. You are able to dodge enemies attacks using TK Dodge completely negating damage. AMMCO prevents running during combat forcing you to pay close attention to your stamina. Streamlined Skyrim doesn't add tons of new enemies and bosses instead making combat more difficult in other ways. You are no longer allowed to save in combat and when your Stamina runs out you are unable to defend yourself and attack. With Open World Loot, you will see higher level enemies earlier and give the you a solid sense of progression as you level up. To make things more realistic, Flinching and Zxxclice Hitstop make your swings look and feel like they are actually hitting something.
-
-**Roleplay Mechanics**:
-
-Streamlined Skyrim has a number of mods that increase the roleplay options of your characters. The Realm of Lorkhan is used as the alternate start mod for its unique worldspace that offers optional attributes and boons to help flesh out your early game character. With Pilgrim - A Religion Overhaul you are able to worship a deity of your choosing. Perhaps you'll worship Talos like a true Nord or maybe Boethiah if you revere the reclaimations. The mod Experience turns Skyrim into a true roleplaying game. You gain level experience from completing quests and discovering locations. Skyrim's Got Talent allows your character to become a bard and boasts an immersive progression system and new instrumental songs that fit right into the game.
-
-**Quests**:
-
-To make sure you never run out of things to do, Streamlined Skyrim is equipped with some incredible quests. Vigilant and Unslaad add some Soulsborne flavor. Project AHO for all you Dunmer lovers. Stendarr Rising for all the do-gooders of Skyrim. And finally Beyond Skyrim Bruma which offers a DLC sized amount of new content. 
-
-**Followers**:
-
-Streamlined Skyrim comes with all of the best followers that the Skyrim modding community has to offer. From Lucien, to Inigo and from Hoth to Serena Dialogue Addon you'll be sure to get your fill of unique followers. And we can't forget about the doggo companions: Gladys the Corgi, True Meeko and Vigilance Reborn.
+Just trust me it's good.
 
 # Installation
 ### Prerequisites
 #### PC Specifications
-Streamlined Skyrim is designed for low to mid tier systems and does not include an ENB.
+Wind of Kine is designed for low to mid tier systems and does not include an ENB.
 
 TerribleBrad’s System:
 
@@ -86,15 +65,15 @@ RAM: 16 GB
 
 Storage: 500 GB SSD
 
-Fps: 50-60
+Fps: 50-60 (mostly 60 fps)
 
 #### Size on Drive
 
-  - Over 54.4 GB for the Downloads folder
-  - Over 89.6 GB for the Installation folder
+  - Over  GB for the Downloads folder
+  - Over  GB for the Installation folder
   - ~15 GB for temporary files
 
-So 159 GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
+So  GB **minimum** is required. I cannot stress how much a SSD is needed for **at least** the game and the list. You can put your downloads in an HDD so it will only slow your installation process.
 
 ### Pre-Installation
 
@@ -143,7 +122,7 @@ After you have done everything above and got a clean SSE installation ready, sta
 Start the game and exit once you're in the main menu.
 
 ## Revert to pre-AE Skyrim
-Streamlined Skyrim does not currently support Skyrim Anniversary Edition.
+Wind of Kine does not currently support Skyrim Anniversary Edition.
 
 If you downloaded or updated Skyrim SE after 11/11/2021, you are on version 1.6.318.0 which will not work with Streamlined, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to 1.5.97.0 before you can proceed.
 
@@ -168,7 +147,7 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Find Streamlined Skyrim in the Wabbajack user interface and press the download arrow.
+1. Find Wind of Kine in the Wabbajack user interface and press the download arrow.
 2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Streamliend Skyrim." This will be your "Installation" folder.
 3. Create another folder called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish. This will be your "Downloads" folder.
 4. Select your Installation and Download folders (the ones you just made)
@@ -239,20 +218,10 @@ Select 'New' to start a new game. Once you have finished character creation allo
 - Minimum Time Between Comments : 20
 - Maximum Time Between Comments : 30
 
-#### Deflection
- - Options
-     - Timed Block Options
-       - Choose Block Damage Modifier : 100%
-       - Timed Block Winder : 0.3 Seconds
-       - NPC Stagger Time : 1 Seconds
-     - Magic Parrying Options
-       - Reflect Magic : Disabled
-       - Npc Magic Stagger : Disabled
-     - Misc Options
-       - Perfect Block Message : Disabled
-
-#### Dual Wield Parrying
-- Block Key : Mouse 5 (I prefer mouse keys for this, but if that is not an option select a key near WASD like V)
+#### CGO
+- Change dodge key to hotkey: Make it Spacebar
+- Grip swap key: G
+- Dual wield block: M5
 
 #### EVG Conditional Idles: (Personal Preference)
 - Player
@@ -290,11 +259,6 @@ Select 'New' to start a new game. Once you have finished character creation allo
 - Hotkeys
  - Health potion hotkey : H
  
- #### SkyUI
-- General → Item List :
-  - Font Size : Small
-  - Category Icon Theme : Curved
- 
 #### Smart NPC Potions
 - Custom Values
   - Max number of potions : 2
@@ -310,25 +274,13 @@ Select 'New' to start a new game. Once you have finished character creation allo
 - Extra Options 
   - Load Preset  
 
-#### Trade&Barter
-- Barter Rates
-  - Settings
-      - Modify Barter Settings : Enable
-  - Presets
-      - Barter Presets : Difficult 
-
 #### True Directional Movement
 - General
     - Controls
       - Toggle Target Lock Key : ( It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G)
-   
-#### Violens
-- Profile System
-   - Menu Settings
-      - Load : Streamlined Skyrim Violens
 
 #### Game Difficulty
-- The difficulty in Streamlined Skyrim is quite a bit harder than Vanilla so I suggest not using Legendary. I personally play on Expert.
+- The difficulty of Wind of Kine is higher than Vanilla so I suggest not using Legendary. I personally play on Expert.
 
 ## Key Bindings:
   - Space bar : it is the dodge key in this mod list. You will need to change jump to be a different key to allow yourself to dodge.
@@ -340,11 +292,10 @@ Select 'New' to start a new game. Once you have finished character creation allo
  
 
 ## How to start playing
-You are now in the Realm of Lorkhan which allows you to select some attributes, your standing stone, and find some early game gear. Realm of Lorkhan is designed for you to explore and find your own path so take your time here you can never go back. Note that there are some higher level weapons that can be found which I recommend against using. When you are satisfied with your character gear and attributes select one of the large Soul gems and you will be transported to a starting area. You are now free to play the game like normal!
-
+Make character. Talk to the dragon. P
 
 ## Last Things to Note
-Streamlined Skyrim's combat is very different from the vanilla game so when you first start playing the list it will take some time to get used to. The goal of this combat overhaul is to make combat more skill based and to turn Skyrim's combat into something you'd find in a Dark Souls or Witcher game. The AI of enemies has been improved and they will be much more agressive. Stamina will regenerate much more quickly, but light attacks and dodges will consume it. True Directional Combat gives you the ability to lock onto targets and move in all directions. Optimal Potion Hotkey allows you to consume potions without having to open a menu. Pressing the space bar allows you to dodge. If you block an opponents attack within 0.3 seconds of it connecting your opponent will stagger. These changes will take some getting used to, but with time you will realize that you can never go back to vanilla Skyrim's janky combat.
+Nothing to see here
 
 
 ## FAQ
@@ -372,7 +323,7 @@ No, I don't like them.
 
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 
-Using them with Streamlined Skyrim would be like installing your own mods: Support is forfeited and they will NOT work without patching.
+Using them with Wind of Kine would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 
 ## Credits and Thanks
@@ -390,4 +341,4 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Changelog
 
-See [Changelog](https://github.com/TerribleBrad/Streamlined-Skyrim/blob/main/Changelog.md).
+See [Changelog](https://github.com/TerribleBrad/Wind-of-Kine/blob/main/Changelog.md).
