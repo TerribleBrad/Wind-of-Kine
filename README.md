@@ -37,9 +37,11 @@ MAJOR WIP. THIS IS NOT COMPLETE!!!!
 
 # Preamble
 
-Wind of Kyneis a vanilla+ modlist with modernized combat. Visuals have been greatly enhanced 
+Wind of Kyne is a vanilla+ modlist with modernized combat. Visuals have been greatly enhanced 
 
-Streamlined Skyrim is a fork of the my own list Streamlined Skyrim list
+Wind of Kyne is a fork of the my own list Streamlined Skyrim list which is a fork of SME/FT. Forkception!
+
+Check out the full modlist here: [link](https://loadorderlibrary.com/lists/wind-of-kyne-1)
 
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation. Do not report issues/bugs/errors to mod authors! Seek out help from me or the other folks on the Wabbajack Discord**
