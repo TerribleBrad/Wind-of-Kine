@@ -2,7 +2,7 @@ MAJOR WIP. THIS IS NOT COMPLETE!!!!
 
 ![Logo]()
 
-# Wind of Kine
+# Wind of Kyne
 
 - [Preamble](#preamble)
 - [Noteworthy Mods and What Gameplay to Expect](#noteworthy-mods-and-what-gameplay-to-expect)
@@ -37,7 +37,7 @@ MAJOR WIP. THIS IS NOT COMPLETE!!!!
 
 # Preamble
 
-Wind of Kine is a vanilla+ modlist with modernized combat. Visuals have been greatly enhanced 
+Wind of Kyneis a vanilla+ modlist with modernized combat. Visuals have been greatly enhanced 
 
 Streamlined Skyrim is a fork of the my own list Streamlined Skyrim list
 
@@ -53,7 +53,7 @@ Just trust me it's good.
 # Installation
 ### Prerequisites
 #### PC Specifications
-Wind of Kine is designed for low to mid tier systems and does not include an ENB.
+Wind of Kyne is designed for low to mid tier systems and does not include an ENB.
 
 TerribleBrad’s System:
 
@@ -122,7 +122,7 @@ After you have done everything above and got a clean SSE installation ready, sta
 Start the game and exit once you're in the main menu.
 
 ## Revert to pre-AE Skyrim
-Wind of Kine does not currently support Skyrim Anniversary Edition.
+Wind of Kyne does not currently support Skyrim Anniversary Edition.
 
 If you downloaded or updated Skyrim SE after 11/11/2021, you are on version 1.6.318.0 which will not work with Streamlined, regardless of whether you own the Anniversary Edition DLC or not. You need to downgrade your installation to 1.5.97.0 before you can proceed.
 
@@ -147,7 +147,7 @@ Wabbajack will not work with Windows 7, I will not offer any kind of support for
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Find Wind of Kine in the Wabbajack user interface and press the download arrow.
+1. Find Wind of Kyne in the Wabbajack user interface and press the download arrow.
 2. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Streamliend Skyrim." This will be your "Installation" folder.
 3. Create another folder called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish. This will be your "Downloads" folder.
 4. Select your Installation and Download folders (the ones you just made)
@@ -280,7 +280,7 @@ Select 'New' to start a new game. Once you have finished character creation allo
       - Toggle Target Lock Key : ( It is set to Mouse 4, but if you don't have a mouse with extra buttons use a key near WASD like G)
 
 #### Game Difficulty
-- The difficulty of Wind of Kine is higher than Vanilla so I suggest not using Legendary. I personally play on Expert.
+- The difficulty of Wind of Kyne is higher than Vanilla so I suggest not using Legendary. I personally play on Expert.
 
 ## Key Bindings:
   - Space bar : it is the dodge key in this mod list. You will need to change jump to be a different key to allow yourself to dodge.
@@ -323,7 +323,7 @@ No, I don't like them.
 
 CC Content isn't considered like DLCs (Dawnguard/Dragonborn/Hearthfire) and will never be treated as such.
 
-Using them with Wind of Kine would be like installing your own mods: Support is forfeited and they will NOT work without patching.
+Using them with Wind of Kyne would be like installing your own mods: Support is forfeited and they will NOT work without patching.
 
 
 ## Credits and Thanks
@@ -341,4 +341,4 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Changelog
 
-See [Changelog](https://github.com/TerribleBrad/Wind-of-Kine/blob/main/Changelog.md).
+See [Changelog](https://github.com/TerribleBrad/Wind-of-Kyne/blob/main/Changelog.md).
